@@ -1,0 +1,16 @@
+[
+{
+  "modid": "workshop",
+  "name": "firstMod",
+  "description": "My first minecraft mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["seb"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
